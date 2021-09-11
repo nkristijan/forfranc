@@ -1,0 +1,3 @@
+- name: S3 Deploy
+  uses: Reggionick/s3-deploy@v3.1.1
+  
